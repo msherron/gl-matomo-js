@@ -1,3 +1,4 @@
+addGainsight();
 var checkRequiredElementsExist = setInterval(function () {
   if (window.gl !== 'undefined' && document.querySelectorAll('[data-user]').length) {
     clearInterval(checkRequiredElementsExist);
