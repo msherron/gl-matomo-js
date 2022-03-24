@@ -32,7 +32,7 @@ function hideThings () {
 function addGainsight () {
   var gainsight_api_keys = {
     // Prod.
-    'code.cloudservices.acquia.io': 'AP-IJB0Z39VSYPZ-2',
+    'code.acquia.com': 'AP-IJB0Z39VSYPZ-2',
     // Dev.
     'code.dev.cloudservices.acquia.io': 'AP-IJB0Z39VSYPZ-2-2',
     // Stage.
